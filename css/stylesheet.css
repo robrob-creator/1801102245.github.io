@@ -9,5 +9,7 @@
 }
  .body{
      background-color: rgb(172, 233, 254);
-     background-repeat:no-repeat;
  }
+.contain{
+    width: 350px;
+}
