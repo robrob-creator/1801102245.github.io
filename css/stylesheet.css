@@ -1,4 +1,17 @@
+<<<<<<< HEAD
 
+=======
+.bg{
+    width:230px;
+    margin-top: -4;
+    background-size: cover;
+    position: absolute;;
+    background-repeat: no-repeat;
+    z-index: -9;
+   width:100%;
+  
+}
+>>>>>>> 55ea261e3363415bacedc72b0de98ea42e395fdd
  .body{
      width:100%;
      background-color: rgb(172, 233, 254);
@@ -9,9 +22,12 @@
 .contain{
     width: 350px;
 }
+<<<<<<< HEAD
 footer{
     position: absolute;
   bottom: 0px;
   width: 100%;
     background-color: cadetblue;
 }
+=======
+>>>>>>> 55ea261e3363415bacedc72b0de98ea42e395fdd
