@@ -5,7 +5,7 @@
      background-color: rgb(172, 233, 254);
      background-size: cover;
      background-repeat: no-repeat;
-     background-position: 10%;
+      overflow: hidden;
  }
 .contain
 {
